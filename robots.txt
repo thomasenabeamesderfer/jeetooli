@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://richeitadi.wangfanming.top/sitemap.xml
